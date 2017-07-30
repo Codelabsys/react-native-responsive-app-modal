@@ -7,7 +7,9 @@ Create responsive modals easily by auto injecting it to the app root.
 *  [react-native-root-siblings](https://github.com/magicismight/react-native-root-siblings)
 
 ##Installation
-   [![NPM](https://nodei.co/npm/react-native-responsive-app-modal.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-native-responsive-app-modal/)
+
+[![NPM](https://nodei.co/npm/react-native-responsive-app-modal.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-native-responsive-app-modal/)
+
 ```
 npm install --save  react-native-responsive-app-modal
 ```
