@@ -56,11 +56,11 @@ var ChildComponent = React.createClass({
                 <TouchableOpacity style={{ backgroundColor: "#ddd",padding:10 }} onPress={() => { this.setState({ isOpen: true }) }}>
                     <Text style={{fontSize:18,textAlign:"center"}}>Show Modal</Text>
                 </TouchableOpacity>
-                <ResponsiveModal sizeMatching="content"
+                <ResponsiveAppModal sizeMatching="content"
                     isOpen={this.state.isOpen} onClosed={() => { this.setState({ isOpen: false }) }} >
                     <View style={{ height: 200, backgroundColor: "red" }}>
                     </View>
-                </ResponsiveModal>
+                </ResponsiveAppModal>
             </View>
         );
     }
