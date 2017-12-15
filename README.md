@@ -26,7 +26,7 @@ npm install --save  react-native-responsive-app-modal
 
 Note that for  react-native<0.43 you should update the `screenHeight` and `screenWidth` whenever the device rotates.
 
-The Modal Also recieves all the props of [react-native-modalbox](https://github.com/maxs15/react-native-modalbox), checkout their repository for the full list.
+The Modal Also receives all the props of [react-native-modalbox](https://github.com/maxs15/react-native-modalbox), checkout their repository for the full list.
 
 ## Usage
 
